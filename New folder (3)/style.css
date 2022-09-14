@@ -1,0 +1,42 @@
+{
+    padding: 0%; 
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+
+    background-color: rgb(238, 226, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full{
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100px;
+    background-color:rgb(26, 11, 94);
+    margin:10px;
+    display: grid; 
+    
+}
+.left{
+    position: initial;
+    background-color:  rgb(13, 104, 124);
+    padding: 20px;
+}
+.right{
+    position: initial;
+background-color: rosybrown;
+padding: 20px;
+}
+.skills{
+power point{
+    50%
+}
+}
+
+
+  
+h2{
+    color: rgb(164, 89, 28);
+}
